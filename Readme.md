@@ -1,1 +1,1 @@
-Adding sample text
+changes in readme
